@@ -23,9 +23,9 @@ Blending over 9 years of experience in Financial Services with Data Science, Mac
 * Specialties: LLMs, Generative AI, NLP
 
 ## Education 🎓
-* Data Science Career Accelerator | University of Cambridge
-* Chartered Accountant | ICAS
-* BSc Chemistry | Cardiff University
+* Data Science Career Accelerator | _University of Cambridge_
+* Chartered Accountant | _ICAS_
+* BSc Chemistry | _Cardiff University_
 
 ## Certifications 📜
 * AWS: _In progress_
