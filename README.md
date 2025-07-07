@@ -5,7 +5,7 @@
 📍 **UK** <br/>
 📧 **Email**: thomas.joseph.hagan@gmail.com <br/>
 🔗 **LinkedIn**: [tomjhagan](https://www.linkedin.com/in/tomjhagan/) <br/>
-👨‍💻 **GitHub**: tomjhagan <br/>
+👨‍💻 **GitHub**: [tomjhagan](https://github.com/tomjhagan) <br/>
 
 ## About Me 🌐
 Blending over 9 years of experience in Financial Services with Data Science, Machine Learning & AI.
