@@ -4,7 +4,7 @@
 
 📍 **UK** <br/>
 📧 **Email**: thomas.joseph.hagan@gmail.com <br/>
-🔗 **LinkedIn**: tomjhagan <br/>
+🔗 **LinkedIn**: [tomjhagan](https://www.linkedin.com/in/tomjhagan/) <br/>
 👨‍💻 **GitHub**: tomjhagan <br/>
 
 ## About Me 🌐
