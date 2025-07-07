@@ -18,7 +18,7 @@ Blending over 9 years of experience in Financial Services with Data Science, Mac
 
 ## Tech Toolbox 🛠️
 * Languages: Python, SQL, SAS
-* Frameworks & Libraries: TensorFlow, Keras, Langchain, Vector Databases, Huggingface, SpaCy
+* Frameworks & Libraries: Scitkit-learn, TensorFlow, Keras, Langchain, Huggingface
 * Tools: AWS, Git
 * Specialties: LLMs, Generative AI, NLP
 
