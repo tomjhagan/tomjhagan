@@ -24,7 +24,7 @@ Blending over 9 years of experience in Financial Services with Data Science, Mac
 
 ## Education 🎓
 * Data Science with Machine Learning & AI Career Accelerator | _University of Cambridge_
-* Chartered Accountant | _ICAS_
+* Chartered Accountant (CA) | _ICAS_
 * BSc Chemistry | _Cardiff University_
 
 ## Certifications 📜
