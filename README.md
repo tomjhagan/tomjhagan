@@ -1,4 +1,4 @@
-# Hello, I'm Tom 👋
+# Thomas Hagan
 
 ## 🚀 Data Scientist
 
