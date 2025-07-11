@@ -3,7 +3,7 @@
 ## 🚀 Data Scientist
 
 📍 **UK** <br/>
-📂 **Portfolio** [tomjhagan.github.io/portfolio/](tomjhagan.github.io/portfolio/) <br/>
+📂 **Portfolio**: [tomjhagan.github.io/portfolio/](tomjhagan.github.io/portfolio/) <br/>
 📧 **Email**: thomas.joseph.hagan@gmail.com <br/>
 🔗 **LinkedIn**: [tomjhagan](https://www.linkedin.com/in/tomjhagan/) <br/>
 👨‍💻 **GitHub**: [tomjhagan](https://github.com/tomjhagan) <br/>
