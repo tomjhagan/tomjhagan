@@ -29,5 +29,6 @@ Blending over 9 years of experience in Financial Services with Data Science, Mac
 * BSc Chemistry | _Cardiff University_
 
 ## Certifications 📜
+* AWS Machine Learning Engineer - Associate (_In progress_)
 * AWS Certified Cloud Practitioner
 * IBM AI Developer Professional Certificate
